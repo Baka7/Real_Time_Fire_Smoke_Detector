@@ -2,6 +2,14 @@
 
 A production-ready app for deploying YOLO object detection to the web.
 
+yolo-streamlit-app
+│── app.py
+│── requirements.txt
+│── best_nano_111.pt      
+│── utils.py
+│── README.md
+
+
 ### Features
 - Upload Image → YOLO detection
 - Upload Video → Frame-by-frame detection
